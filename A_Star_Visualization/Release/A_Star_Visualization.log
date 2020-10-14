@@ -1,0 +1,9 @@
+﻿  A_Star_Visualization.cpp
+D:\CPP_Projects\repos\A_Star_Visualization\A_Star_Visualization\A_Star_Visualization.cpp(32,40): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\CPP_Projects\repos\A_Star_Visualization\A_Star_Visualization\A_Star_Visualization.cpp(115,1): warning C4804: '<': unsafe use of type 'bool' in operation
+  Generating code
+  1 of 334 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  A_Star_Visualization.vcxproj -> D:\CPP_Projects\repos\A_Star_Visualization\Release\A_Star_Visualization.exe

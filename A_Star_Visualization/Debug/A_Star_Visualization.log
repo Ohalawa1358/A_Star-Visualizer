@@ -1,0 +1,3 @@
+﻿  A_Star_Visualization.cpp
+D:\CPP_Projects\repos\A_Star_Visualization\A_Star_Visualization\A_Star_Visualization.cpp(61,1): warning C4804: '<': unsafe use of type 'bool' in operation
+  A_Star_Visualization.vcxproj -> D:\CPP_Projects\repos\A_Star_Visualization\Debug\A_Star_Visualization.exe
